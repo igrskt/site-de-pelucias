@@ -1,3 +1,12 @@
+header {
+    
+    color: #ffffff;
+    padding: 100px;
+    text-align: center;
+    background-image: url("MR.\ WHISKERS\ Pelúcias\ \(1\).png");
+    background-repeat: repeat-x;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,12 +15,6 @@ body {
     color: #333;
 }
 
-header {
-    background-color: #e6877f;
-    color: #ffffff;
-    padding: 20px;
-    text-align: center;
-}
 
 main {
     padding: 20px;
